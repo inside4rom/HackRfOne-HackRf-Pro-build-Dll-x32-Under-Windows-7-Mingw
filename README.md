@@ -1,4 +1,4 @@
-# HackRf-One-HackRf-Pro-build-Dll-X32-Under-Windows-7-MINGW-
+# HackRfOne-HackRf-Pro-build-Dll-x32-Under-Windows-7-Mingw
 Инструкция: Сборка hackrf.dll для Windows 7 x86
 
 ---
